@@ -7,7 +7,14 @@ This tool will be very useful when we install Kali Linux and want to automate ta
 
 ## How do you run the tool?
 
-First of all, we need to give it execution permissions by using the following command in the terminal:
+First: we will go to the folder where the README will be located along with the script
+
+```
+    ┌──(rubelmo㉿Rubelmo)-[~]
+    └─$ cd KaliBasic-Tools-Alpha
+```
+
+Second: we must give it execution permissions, we would give this in our console:
 
 ```
     ┌──(rubelmo㉿Rubelmo)-[~]
