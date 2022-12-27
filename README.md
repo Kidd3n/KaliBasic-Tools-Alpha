@@ -12,7 +12,6 @@ Primero: iremos a la carpeta donde estara el README junto al script
 ```
     ┌──(rubelmo㉿Rubelmo)-[~]
     └─$ cd KaliBasic-Tools-Alpha
-
 ```
 
 Segundo: debemos darle permisos de ejecucion, esto se la dariamos en nuestra consola:
