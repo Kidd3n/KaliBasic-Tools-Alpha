@@ -7,7 +7,15 @@ Esta herramienta nos va a hacer muy util para cuando instalemos kali linux y que
 
 ## ¿Cómo se ejecuta la herramienta?
 
-Primero que nada debemos darle permisos de ejecucion, esto se la dariamos en nuestra consola:
+Primero: iremos a la carpeta donde estara el README junto al script
+
+```
+    ┌──(rubelmo㉿Rubelmo)-[~]
+    └─$ cd KaliBasic-Tools-Alpha
+
+```
+
+Segundo: debemos darle permisos de ejecucion, esto se la dariamos en nuestra consola:
 
 ```
     ┌──(rubelmo㉿Rubelmo)-[~]
