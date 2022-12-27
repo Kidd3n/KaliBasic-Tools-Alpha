@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 if [ $(id -u) -ne 0 ]; then
 	echo "[!] Debes ser root para ejecutarlo (sudo $0)"
