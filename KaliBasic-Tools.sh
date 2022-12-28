@@ -22,7 +22,7 @@ if [ $rps == "y" ]; then
 	cd ./Villain
 	pip3 install -r requirements.txt > /dev/null 2>&1
 	sudo apt install mdk3 -y > /dev/null 2>&1
-	wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64 > /dev/null 2>&1
+	wget https://code.visualstudio.com/docs/?dv=linux64_deb > /dev/null 2>&1
 	dpkg -i code_1.74.2-1671533413_amd64.deb > /dev/null 2>&1
 	sudo rm -r code_1.74.2-1671533413_amd64.deb > /dev/null 2>&1
 	sudo apt install maltego -y > /dev/null 2>&1
