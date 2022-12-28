@@ -27,6 +27,7 @@ if [ $rps == "y" ]; then
 	dpkg -i code_1.74.2-1671533413_amd64.deb > /dev/null 2>&1
 	sudo rm -r code_1.74.2-1671533413_amd64.deb > /dev/null 2>&1
 	sudo apt install maltego -y > /dev/null 2>&1
+	sudo apt install neofetch -y > /dev/null 2>&1
 	echo "Se ha finalizado el script"
 
 elif [ $rps == "n" ]; then 
