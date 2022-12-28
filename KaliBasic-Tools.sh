@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $(id -u) -ne 0 ]; then
-	echo "[!] Debes ser root para ejecutarlo (sudo $0)"
+	echo "\n[!] Debes ser root para ejecutarlo (sudo $0)\n"
 exit 1
 fi
 
@@ -21,7 +21,7 @@ if [ $rps == "y" ]; then
 	sudo rm -r code_1.74.2-1671533413_amd64.deb
 	sudo apt install maltego -y
 elif [ $rps == "n" ]; then 
-	echo "Cerrando Script"
+	echo "\nCerrando Script\n"
 fi
 
 
