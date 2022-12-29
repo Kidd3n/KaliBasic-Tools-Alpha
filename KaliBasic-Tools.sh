@@ -9,7 +9,7 @@ fi
 	sudo apt install toilet > /dev/null 2>&1
 	sleep 7
 	clear
-	toilet -f term -F border:metal KaliBasic-Tools by Rubelmo
+	toilet -f term -F border:metal KaliBasic-Tools by kidd3n
 
 read -p "Empezara todo el proceso y durara mucho tiempo (NO ES RECOMENDABLE REINICIAR NI APAGAR TU PC) Deseas continuar? [y/n]: " rps
 if [ $rps == "y" ]; then 
